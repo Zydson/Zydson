@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![licznik](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife&label=Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
+[![](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Zydson/)
